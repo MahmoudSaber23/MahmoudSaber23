@@ -7,8 +7,8 @@
 <hr>
 
 ### 👋 Hello! I'm **Mahmoud Mohamed Saber** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP**, and problem-solving using **Visual Studio** 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+A  Student passionate about programming 🚀. Currently learning **C++**, and problem-solving using **Visual Studio** 💻.  
+Also, I'm a Student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my Progress.
 
 ---
 
