@@ -41,20 +41,3 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=MahmoudMSaber&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
-
----
-
-```cpp
-// Focused on mastering the stack
-class MahmoudMSaber {
-public:
-  string university = "Arab Open University (AOU)";
-  string track = "Computer Science Student";
-  string passion = "Problem Solving & Building Projects";
-  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
-};
