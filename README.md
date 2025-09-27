@@ -30,6 +30,8 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 *Coming soon...*
 
+
+  
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
