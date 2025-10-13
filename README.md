@@ -27,7 +27,7 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ---
 
-### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+### Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
 - 🎮 [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)  
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*  
@@ -39,7 +39,7 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ---
 
-### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+###  Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
 *To be added...*
 
 
