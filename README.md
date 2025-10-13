@@ -35,8 +35,6 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 - 🧮 [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)  
   *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*  
 
-*(More projects coming soon... 🚀)*
-
 ---
 
 ###  Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
@@ -46,7 +44,7 @@ My goal is to grow as a developer, think outside the box, and contribute with in
   
 ---
 
-### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+### Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 *To be updated...*
 
 ---
