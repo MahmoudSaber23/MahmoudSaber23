@@ -8,7 +8,7 @@
 
 ### Hello! I'm **Mahmoud Mohamed Saber** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a dedicated **Computer Science student** with a strong passion for programming 🚀.  
+I'm a dedicated **Computer Science student** with a strong passion for programming.  
 Currently focusing on **C++** for problem-solving and algorithms, while also expanding my knowledge in **Java**.  
 
 I enjoy tackling challenging problems, building creative projects, and constantly improving my skills.  
