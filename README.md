@@ -6,13 +6,13 @@
 
 <hr>
 
-### 👋 Hello! I'm **Mahmoud Mohamed Saber** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hello! I'm **Mahmoud Mohamed Saber** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I'm a dedicated **Computer Science student** with a strong passion for programming 🚀.  
 Currently focusing on **C++** for problem-solving and algorithms, while also expanding my knowledge in **Java**.  
 
-I enjoy tackling challenging problems, building creative projects, and constantly improving my skills 💻.  
-My goal is to grow as a developer, think outside the box, and contribute with innovative ideas to the tech community 🌟.
+I enjoy tackling challenging problems, building creative projects, and constantly improving my skills.  
+My goal is to grow as a developer, think outside the box, and contribute with innovative ideas to the tech community.
 
 ---
 
@@ -29,10 +29,10 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ### Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-- 🎮 [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)  
+- [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)  
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*  
 
-- 🧮 [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)  
+- [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)  
   *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*  
 
 ---
