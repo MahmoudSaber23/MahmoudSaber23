@@ -6,7 +6,7 @@
 
 <hr>
 
-### Hello! I'm **Mahmoud Mohamed Saber** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hello! I'm **Mahmoud Mohamed Saber**
 
 I'm a dedicated **Computer Science student** with a strong passion for programming.  
 Currently focusing on **C++** for problem-solving and algorithms, while also expanding my knowledge in **Java**.  
