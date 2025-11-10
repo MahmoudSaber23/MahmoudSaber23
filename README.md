@@ -37,14 +37,16 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ---
 
-###  Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+###  Achievements & Certificates 
+
 *To be added...*
 
 
   
 ---
 
-### Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+### Currently Working On 
+
 *To be updated...*
 
 ---
