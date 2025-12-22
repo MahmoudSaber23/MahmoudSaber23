@@ -9,7 +9,7 @@
 ### Hello! I'm **Mahmoud Mohamed Saber**
 
 I'm a dedicated **Computer Science student** with a strong passion for programming.  
-Currently focusing on **C++** for problem-solving and algorithms, while also expanding my knowledge in **Java**.  
+Currently focusing on **C++** for problem-solving and algorithms 
 
 I enjoy tackling challenging problems, building creative projects, and constantly improving my skills.  
 My goal is to grow as a developer, think outside the box, and contribute with innovative ideas to the tech community.
