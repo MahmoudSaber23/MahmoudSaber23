@@ -32,7 +32,11 @@ My goal is to grow as a developer, think outside the box, and contribute with in
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*  
 
 - [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)  
-  *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*  
+  *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*
+
+  🏦 Bank Management System (https://github.com/MahmoudSaber23/Bank)
+A simple Bank Management System built using C++, using file handling techniques.
+This project allows managing clients, performing transactions, and managing system users with permissions.
 
 ---
 
