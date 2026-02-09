@@ -6,17 +6,17 @@
 
 <hr>
 
-### Hello! I'm **Mahmoud Mohamed Saber**
+### Hello! I'm **Mahmoud Mohamed Saber** 👋
 
 I'm a dedicated **Computer Science student** with a strong passion for programming.  
-Currently focusing on **C++** for problem-solving and algorithms 
+Currently focusing on **C++**, **Data Structures**, and **Problem Solving** (Competitive Programming).
 
 I enjoy tackling challenging problems, building creative projects, and constantly improving my skills.  
 My goal is to grow as a developer, think outside the box, and contribute with innovative ideas to the tech community.
 
 ---
 
-### Skills & Tools 
+### Skills & Tools 🛠️
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -26,7 +26,7 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ---
 
-### Projects 
+### Projects 🚀
 
 - [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)  
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*  
@@ -40,24 +40,35 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 - [ATM System](https://github.com/MahmoudSaber23/ATM-System)  
   *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
 
-  
 ---
 
-###  Achievements & Certificates 
+### Achievements & Certificates 🏆
 
-*To be added...*
-
-
-  
----
-
-### Currently Working On 
-
-*To be updated...*
+- Currently learning and improving in **Competitive Programming**
+- Solving problems on platforms like **Codeforces**
+- Working on building stronger knowledge in **Algorithms & Data Structures**
 
 ---
 
+### Currently Working On 📌
 
+- Improving problem-solving skills and practicing more C++ challenges  
+- Building more real-world console projects using file handling  
+- Learning advanced topics in algorithms and OOP  
+
+---
+
+### GitHub Stats 📊
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSaber23&show_icons=true&theme=tokyonight" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSaber23&layout=compact&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
