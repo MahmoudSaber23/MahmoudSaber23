@@ -28,8 +28,6 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ### Projects 
 
-### Projects 
-
 - [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)  
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*  
 
@@ -38,6 +36,10 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 - [Bank Management System](https://github.com/MahmoudSaber23/Bank)  
   *A simple Bank Management System built using C++, using file handling techniques. This project allows managing clients, performing transactions, and managing system users with permissions.*
+
+- [ATM System](https://github.com/MahmoudSaber23/ATM-System)  
+  *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
+
   
 ---
 
