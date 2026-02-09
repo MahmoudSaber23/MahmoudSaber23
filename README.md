@@ -44,9 +44,8 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ### Achievements & Certificates 🏆
 
-- Currently learning and improving in **Competitive Programming**
-- Solving problems on platforms like **Codeforces**
-- Working on building stronger knowledge in **Algorithms & Data Structures**
+
+
 
 ---
 
@@ -58,17 +57,6 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 
 ---
 
-### GitHub Stats 📊
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudSaber23&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSaber23&layout=compact&theme=tokyonight" width="48%"/>
-
-</div>
-
----
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
