@@ -11,7 +11,7 @@
 I'm an **Undergraduate Computer Science Student** with a strong interest in **Backend Engineering**.
 I've built my programming foundation through **C++**, **Problem Solving**, **Algorithms**, **Data Structure**, and **Object-Oriented Programming**.
 
-Currently, I'm starting my journey into **Backend Development**, focusing on the **.NET ecosystem** and gradually building my skills in **C#, .NET Core, Databases, and Web APIs**.
+Currently, I'm starting my journey into **Backend Development**, focusing on the **.NET ecosystem** and gradually building my skills in **C#, .NET, Databases, and Web APIs**.
 
 
 ---
