@@ -40,20 +40,18 @@ My goal is to grow as a developer, think outside the box, and contribute with in
 - [ATM System](https://github.com/MahmoudSaber23/ATM-System)  
   *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
 
+- [Bank Management System — OOP](https://github.com/MahmoudSaber23/Bank-Management-System-OOP)  
+  *A console-based Bank Management System built in C++ using OOP, file handling, authentication, authorization, transaction processing, and modular design.*
 ---
 
 ### Achievements & Certificates 🏆
-
-
 
 
 ---
 
 ### Currently Working On 📌
 
-- Improving problem-solving skills and practicing more C++ challenges  
-- Building more real-world console projects using file handling  
-- Learning advanced topics in algorithms and OOP  
+ 
 
 ---
 
