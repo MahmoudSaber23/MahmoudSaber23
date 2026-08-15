@@ -11,10 +11,6 @@ I'm an **Undergraduate Computer Science Student** with a strong interest in **Ba
 I've built my programming foundation through **C++**, **Problem Solving**, **Algorithms**, and **Object-Oriented Programming**.
 Now, I'm starting my journey into **Backend Development**, with a focus on the **.NET ecosystem**.
 
-I'm currently learning and exploring **C#, .NET, ASP.NET Core, Databases, APIs, and Backend Architecture**, while building projects and strengthening my understanding of how real-world backend systems are designed.
-
-> **Current Focus:** Backend Engineering with **.NET** 🚀
-
 ---
 
 ---
@@ -57,6 +53,7 @@ I'm currently learning and exploring **C#, .NET, ASP.NET Core, Databases, APIs, 
 * [Bank Management System — OOP](https://github.com/MahmoudSaber23/Bank-Management-System-OOP)
   *A console-based Bank Management System built with C++ and Object-Oriented Programming, featuring file handling, authentication, authorization, transaction processing, and a modular design.*
 
+---
 
 ### Goals 🎯
 
