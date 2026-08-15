@@ -17,6 +17,7 @@ I'm still learning, building projects, and developing my understanding of how re
 
 ---
 
+
 ### Skills & Tools 🛠️
 
 <div align="center">
@@ -30,6 +31,7 @@ I'm still learning, building projects, and developing my understanding of how re
 </div>
 
 ---
+
 
 ### Projects 🚀
 
@@ -50,17 +52,13 @@ I'm still learning, building projects, and developing my understanding of how re
 
 ---
 
-### Goals 🎯
+### Achievements & Certificates 🏆 
 
-* Build a strong foundation in **C# and .NET**
-* Learn and work with **ASP.NET Core**
-* Understand **Databases and SQL**
-* Build and consume **RESTful APIs**
-* Learn **Backend Architecture and Best Practices**
-* Build real-world **Backend Projects**
-* Grow toward becoming a professional **Backend Engineer**
+
+
 
 ---
+
 
 ### Currently Working On 📌
 
