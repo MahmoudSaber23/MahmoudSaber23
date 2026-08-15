@@ -40,40 +40,23 @@ I'm currently learning and exploring **C#, .NET, ASP.NET Core, Databases, APIs, 
 
 ---
 
-### Projects 🚀 - [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors) *
-A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.* 
+### Projects 🚀
 
-- [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game) *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*
--
-- - [Bank Management System](https://github.com/MahmoudSaber23/Bank) *A simple Bank Management System built using C++, using file handling techniques. This project allows managing clients, performing transactions, and managing system users with permissions.*
-  -
-  - - [ATM System](https://github.com/MahmoudSaber23/ATM-System) *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
-    -
-    - - [Bank Management System — OOP](https://github.com/MahmoudSaber23/Bank-Management-System-OOP)*A console-based Bank Management System built in C++ using OOP, file handling, authentication, authorization, transaction processing, and modular design.* ---
+* [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)
+  *A console-based C++ game where you play against the computer in multiple rounds, with score tracking and game results.*
 
-### Current Direction 📌
+* [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)
+  *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type, providing instant feedback and tracking the final result.*
 
-I'm currently moving from **Problem Solving & Competitive Programming** toward **Backend Engineering**.
+* [Bank Management System](https://github.com/MahmoudSaber23/Bank)
+  *A C++ console-based Bank Management System using file handling to manage clients, perform transactions, and manage system users with different permissions.*
 
-My next step is to build a strong foundation in the **.NET ecosystem** and gradually move from small learning projects to more complete backend applications.
+* [ATM System](https://github.com/MahmoudSaber23/ATM-System)
+  *A console-based ATM System built with C++ and file handling. Users can authenticate using their account number and PIN, then perform quick withdrawals, normal withdrawals, deposits, and balance inquiries.*
 
-```text
-C++ / Problem Solving
-        ↓
-Algorithms & OOP
-        ↓
-C# & .NET
-        ↓
-ASP.NET Core
-        ↓
-Databases & APIs
-        ↓
-Backend Engineering
-```
+* [Bank Management System — OOP](https://github.com/MahmoudSaber23/Bank-Management-System-OOP)
+  *A console-based Bank Management System built with C++ and Object-Oriented Programming, featuring file handling, authentication, authorization, transaction processing, and a modular design.*
 
-I'm still learning, experimenting, and building — one step at a time. 🚀
-
----
 
 ### Goals 🎯
 
