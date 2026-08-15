@@ -36,21 +36,30 @@ I'm still learning, building projects, and developing my understanding of how re
 ### Projects 🚀
 
 * [Rock-Paper-Scissors Game](https://github.com/MahmoudSaber23/Rock-Paper-Scissors)
+
   *A console-based C++ game where you challenge the computer in multiple rounds of Rock, Paper, Scissors with score tracking and colorful results.*
 
 * [Math Quiz Game](https://github.com/MahmoudSaber23/Math-Game)
+
   *A console-based C++ math quiz game that generates random arithmetic questions based on difficulty level and operation type. Test your math skills, get real-time feedback, and see if you can pass!*
 
 * [Bank Management System](https://github.com/MahmoudSaber23/Bank)
-  *A simple Bank Management System built using C++, using file handling techniques. This project allows managing clients, performing transactions, and managing system users with permissions.*
+
+   *A simple Bank Management System built using C++, using file handling techniques. This project allows managing clients, performing transactions, and managing system users with permissions.*
 
 * [ATM System](https://github.com/MahmoudSaber23/ATM-System)
-  *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
+
+   *A console-based ATM System built using C++ with file handling. Users can login using account number and pin code, then perform quick withdraw, normal withdraw, deposit, and check balance.*
 
 * [Bank Management System — OOP](https://github.com/MahmoudSaber23/Bank-Management-System-OOP)
-  *A console-based Bank Management System built in C++ using OOP, file handling, authentication, authorization, transaction processing, and modular design.*
+
+   *A console-based Bank Management System built in C++ using OOP, file handling, authentication, authorization, transaction processing, and modular design.*
 
 ---
+
+
+
+
 
 ### Achievements & Certificates 🏆 
 
@@ -60,11 +69,6 @@ I'm still learning, building projects, and developing my understanding of how re
 ---
 
 
-### Currently Working On 📌
-
-Learning **C# and the .NET ecosystem** and preparing to start building my first **ASP.NET Core backend projects**.
-
----
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
