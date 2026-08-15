@@ -17,19 +17,6 @@ I'm currently learning and exploring **C#, .NET, ASP.NET Core, Databases, APIs, 
 
 ---
 
-### What I'm Learning 📚
-
-* **C# & .NET**
-* **ASP.NET Core**
-* **RESTful APIs**
-* **Entity Framework Core**
-* **SQL & Database Design**
-* **Authentication & Authorization**
-* **Backend Architecture & Design**
-* **Clean Code & Software Engineering Principles**
-
-My previous experience with **C++, OOP, Algorithms, and Problem Solving** gives me a solid foundation as I transition into backend development.
-
 ---
 
 ### Skills & Tools 🛠️
